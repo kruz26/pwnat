@@ -1,4 +1,4 @@
-PWNAT(1)     proxy server that works behind client+server NATs      PWNAT(1)
+PWNAT(2)     proxy server that works behind client+server NATs      PWNAT(1)
 
 NAME
        pwnat - proxy server that works behind both client and server NATs
